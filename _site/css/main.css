@@ -1501,7 +1501,7 @@ label.tree-toggle {
   text-transform: uppercase;
   font-size: 5rem;
   font-weight: normal;
-  padding-top: 1rem;
+  padding-bottom: 4rem;
   margin-bottom: 0; }
 
 .site-subtitle {
@@ -2675,7 +2675,7 @@ form select {
 
 .recruiting-page {
   Font-size: 18px;
-  width: 75%;
+  width: 85%;
   margin: 0 auto;
   color: #000; }
 
