@@ -9,7 +9,7 @@ custom_links:
 client:
   name: Andy Cleaves
   title:
-  license_number:
+  license_number: BRE# 01383386
   about_markdown: |
     Would you rather work for a broker who simply talks the talk, or do you want to operate alongside someone whose skills, experience, and innovative eye allow them to walk the walk? Andy Cleaves, broker at Real Living Premier Realty, doesn’t just talk a good game—he uses cutting edge technology to enhance marketing materials for both his agents’ and clients’ benefits; he provides comprehensive training and coaching for agents at all levels within his brokerage; and, as a member of the Real Living Luxury Real Estate network, his reach is global.
 
@@ -25,7 +25,7 @@ client:
   phone_type: Office
   phone2: 951-732-7132
   phone2_type: Cell
-  email: success@eliteagentsuccess.com
+  email: andy@andycleaves.com
   url: http://eliteagentsuccess.com
 
 sidebar_CTA:
