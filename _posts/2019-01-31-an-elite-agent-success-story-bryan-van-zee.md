@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'An Elite Agent Success Story: Bryan Van Zee'
-date:
+date: 2019-01-31 22:06:16
 tags:
 excerpt: >-
   Today’s guest may be new to the real estate industry, but he’s already an
@@ -20,7 +20,7 @@ youtube_code: 5EYG7uiUBNM
 
 We’ve got an amazing story to share with you today. Meet Bryan Van Zee. Bryan is a new agent who closed 15 transactions in his first year and is well on his way to close even more soon.
 
-**Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:&nbsp;**
+**Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:**
 
 0:35 - Bryan talks about his first three months in the real estate business
 
@@ -36,4 +36,4 @@ We’ve got an amazing story to share with you today. Meet Bryan Van Zee. Bryan 
 
 14:00 - A few parting words about working in real estate
 
-14:54 - How you can reach out to us and get started on a success story of your own<br>&nbsp;
+14:54 - How you can reach out to us and get started on a success story of your own
