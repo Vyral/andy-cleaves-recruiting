@@ -18,7 +18,7 @@ youtube_code: 5EYG7uiUBNM
 
 {% include youtube.html %}
 
-We’ve got an amazing story to share with you today. Meet Bryan Van Zee. Bryan is a new agent who closed 15 transactions in his first year and is well on his way to close even more soon.
+We’ve got an amazing story to share with you today. Meet Bryan Van Zee: Bryan is a new agent who closed 15 transactions in his first year and is well on his way to close even more soon.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:**
 
@@ -37,3 +37,5 @@ We’ve got an amazing story to share with you today. Meet Bryan Van Zee. Bryan 
 14:00 - A few parting words about working in real estate
 
 14:54 - How you can reach out to us and get started on a success story of your own
+
+If you have any other questions for us in the meantime, don't hesitate to reach out and give us a call or send us an email. We look forward to hearing from you soon.
