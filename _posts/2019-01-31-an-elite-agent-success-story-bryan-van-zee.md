@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'An Elite Agent Success Story: Bryan Van Zee'
-date: 2019-01-31 22:06:16
+date: 2019-01-31 22:06:00
 tags:
 excerpt: >-
   Today’s guest may be new to the real estate industry, but he’s already an
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/1-31-bryan-np.jpg
-youtube_code: 5EYG7uiUBNM
+youtube_code: mbalG3628VU
 ---
 
 {% include youtube.html %}
