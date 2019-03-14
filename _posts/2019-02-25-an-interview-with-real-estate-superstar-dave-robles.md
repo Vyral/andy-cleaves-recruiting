@@ -20,11 +20,9 @@ youtube_code: XpFb4jLxMSM
 
 {% include youtube.html %}
 
-&nbsp;
-
 Recently, we were fortunate enough to sit down and speak with Dave Robles—a rockstar agent who had $48 million in closed sales volume in 2018. &nbsp;The insight Dave offered into his success was so amazing that we’ve decided to bring you the full interview, today.
 
-**Cited below for your convenience are timestamps that will direct you to various points in the interview. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure: **
+Cited below for your convenience are timestamps that will direct you to various points in the interview. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:&nbsp;
 
 00:25 — How Dave finds his leads
 
