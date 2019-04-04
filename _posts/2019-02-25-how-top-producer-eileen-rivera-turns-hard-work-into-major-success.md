@@ -19,7 +19,7 @@ youtube_code: clgxJfqqVRk
 
 {% include youtube.html %}
 
-For our most recent agent interview, top-producer Eileen Rivera joined us to share her tips and tricks for succeeding in real estate. Given that she closed $68 million in volume on 85 transactions last year, she’s definitely more than qualified to offer this advice.
+For our most recent agent interview, top producer Eileen Rivera joined us to share her tips and tricks for succeeding in real estate. Given that she closed $68 million in volume on 85 transactions last year, she’s definitely more than qualified to offer this advice.
 
 The information Eileen shared during our interview was so incredible that we’re going to share it with you today.
 
