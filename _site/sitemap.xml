@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/an-elite-agent-success-story-bryan-van-zee.html</loc>
+<lastmod>2019-01-31T16:06:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/an-interview-with-real-estate-superstar-dave-robles.html</loc>
+<lastmod>2019-02-24T18:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/how-top-producer-eileen-rivera-turns-hard-work-into-major-success.html</loc>
+<lastmod>2019-02-24T18:00:00-06:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
