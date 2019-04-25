@@ -9,6 +9,8 @@ custom_links:
     url: /subscribe/
   - title: Join Our Team
     url: /join-our-team/
+  - title: Success Tips
+    url: /success-tips/    
 
 
 client:
